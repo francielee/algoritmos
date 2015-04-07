@@ -1,4 +1,9 @@
 <?php
+
+	/*
+	Algoritmo que lê a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias
+
+	*/
 	
 	$ano = $_GET["a"];
 	$meses = $_GET["m"];
